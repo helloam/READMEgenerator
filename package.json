@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloam/READMEgenerator.git"
+  },
+  "author": "Angeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloam/READMEgenerator/issues"
+  },
+  "homepage": "https://github.com/helloam/READMEgenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
